@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Managect</string>
+    <string name="intro_title">Let\'s Get Started</string>
+    <string name="intro_text">Manage your project properly here. Please sign in or sign up if you want to use these awesome functions.</string>
 </resources>
