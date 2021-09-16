@@ -15,8 +15,8 @@
         android:textStyle="bold"
         android:textSize="@dimen/intro_screen_app_name_size"
         android:id="@+id/tv_intro_app_name"
-        android:layout_marginTop="25dp"
-        android:layout_marginBottom="20dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginBottom="30dp"
         android:textColor="@color/colour8"
         ></TextView>
 
@@ -44,8 +44,11 @@
         android:text="@string/intro_text"
         android:textSize="@dimen/intro_screen_text_size"
         android:gravity="center"
-        android:layout_marginBottom="60dp"
-        android:textColor="@color/black"
+        android:layout_marginBottom="50dp"
+        android:textColor="@color/grey"
+        android:lineSpacingExtra="3dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
         ></TextView>
 
     <androidx.appcompat.widget.AppCompatButton

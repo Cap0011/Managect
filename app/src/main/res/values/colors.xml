@@ -16,5 +16,7 @@
     <color name="colour6">#2d6a4f</color>
     <color name="colour7">#1b4332</color>
     <color name="colour8">#1b4332</color>
+    <color name="grey">#7F000000</color>
+    <color name="lightgrey">#1A000000</color>
 
 </resources>
